@@ -2,3 +2,4 @@ This is sample File 2
 GIT Reset commit 2
 
 This is Comparsion class, change file 2
+This is Stash lecture, change in file
